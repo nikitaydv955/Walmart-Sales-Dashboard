@@ -1,23 +1,34 @@
+
 # Walmart Sales Dashboard
 
-## Project Overview
-This Power BI dashboard analyzes Walmart sales data and provides interactive business insights.
+This is a Power BI dashboard created to analyze Walmart sales data.
 
-## Dashboard Features
+## Features
+
 - Total Sales
-- Store-wise Sales Analysis
-- Holiday vs Non-Holiday Sales
-- Sales vs Temperature
+- Total Stores
+- Holiday Sales
+- Sales by Store
+- Sales by Temperature
 - Fuel Price Analysis
 - CPI Analysis
-- Interactive Filters
 
 ## Tools Used
+
 - Power BI
 - Power Query
 - DAX
-- Data Modeling
 
-## Dashboard Preview
+## Dashboard Screenshot
 
-(Add your dashboard screenshot here)
+![Walmart Sales Dashboard](dashboard.png)
+
+## Files
+
+- Walmart Dashboard.pbix
+- dashboard.png
+- README.md
+
+## Author
+
+Nikita Yadav
